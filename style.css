@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #141414;
+  color: white;
+}
+
+header nav:first-of-type div a img {
+  width: 100px;
+}
+
+header div:last-of-type button {
+  background-color: #141414;
+  border: none;
+}
+
+main div:first-of-type div.col h2 {
+  margin-left: 9px;
+}
+
+.slider-container .row > div {
+  transition-property: transform;
+  cursor: pointer;
+}
+
+.slider-container .row > div:hover {
+  transform: scale(1.5);
+}
+
+#search-bar input {
+  opacity: 0;
+}
+
+#search-bar:hover input {
+  opacity: 1;
+}
