@@ -12,7 +12,7 @@ Il Netflix Clone Project è un progetto che mira a replicare una versione sempli
 ## Installazione e utilizzo
 Clona il repository:
 
-git clone https://github.com/tuo-username/netflix-clone.git
+git clone https://github.com/PlesAndre/Netflix-Clone-Project.git
 
 Apri il file index.html direttamente nel browser.
 
